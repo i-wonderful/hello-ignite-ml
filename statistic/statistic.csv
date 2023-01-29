@@ -1,0 +1,2 @@
+Date,Iterations,LocIterations,Lambda,TrainSize,TimeFit(sec),Accuracy
+2023-01-29 18:13:18, 110, 230, 1.05, 60000, 118.16, 0.8221 
