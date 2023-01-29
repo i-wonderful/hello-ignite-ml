@@ -3,6 +3,8 @@
 Пример использования apache-ignite-ml для задачи мультиклассовой классификации.
 Датасет MNIST рукописных цифр.
 
+Описание и подробности в [посте](https://not-accidental-chaos.blogspot.com/2023/01/apache-ignite-ml.html#more).
+
 ## Сборка и запуск
 1. Поместить [датасет](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv) в папку ./dataset в корне проекта.
 
